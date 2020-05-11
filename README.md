@@ -1,7 +1,8 @@
 # Movo Simulation Scene
 
 Kinova Movo scene for [CoppeliaSim](https://www.coppeliarobotics.com/). Uses Movo with 2 
-7DOF Kinova Jaco arms and 2 Robotiq grippers.
+7DOF Kinova Jaco arms and Robotiq grippers.
+
 
 ### Setup & Run
 1. Install [CoppeliaSim](https://www.coppeliarobotics.com/downloads)
@@ -24,3 +25,7 @@ Kinova Movo scene for [CoppeliaSim](https://www.coppeliarobotics.com/). Uses Mov
 * `/movo/linear_actuator_cmd`
 * `/movo/left_gripper/cmd`
 * `/movo/head/cmd`
+
+![Sim Image1](./images/sim1.png)
+![Sim Image2](./images/sim2.png)
+
