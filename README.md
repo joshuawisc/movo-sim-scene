@@ -26,6 +26,8 @@ Kinova Movo scene for [CoppeliaSim](https://www.coppeliarobotics.com/). Uses Mov
 * `/movo/left_gripper/cmd`
 * `/movo/head/cmd`
 
+### Images
+
 ![Sim Image1](./images/sim1.png)
 ![Sim Image2](./images/sim2.png)
 
